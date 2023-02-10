@@ -1,0 +1,14 @@
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: blanchedalmond;
+}
+
+canvas{
+    box-shadow: 6px;
+    border: 5px;
+    padding: 10px;
+    margin: 10px;
+}
